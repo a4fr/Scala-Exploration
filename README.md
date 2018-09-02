@@ -30,8 +30,6 @@ You may run Scala source codes through these options:
 
 ### 3. ToDo Sections:
 
-* Introduction of Scala: Its features over Java and python
-
 * Basics
 
 * Control Structures
