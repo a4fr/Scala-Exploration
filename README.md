@@ -10,7 +10,25 @@ https://github.com/jupyter-scala/jupyter-scala
 
 
 
-### 2. ToDo Sections:
+### 2. Running Scala source codes
+
+You may run Scala source codes through these options:
+
+1. Scala REPL which let you run simple commands interactively. But you cannot run complex source codes which have dependencies issues. To use it just install below package in the shell:
+
+   ```shell
+   $ sudo apt install scala
+   ```
+
+2. sbt: is an [open-source](https://en.wikipedia.org/wiki/Open-source) [build tool](https://en.wikipedia.org/wiki/Build_tool) for Scala and Java projects, similar to Java's [Maven](https://en.wikipedia.org/wiki/Apache_Maven) and [Ant](https://en.wikipedia.org/wiki/Apache_Ant). It compiles and runs your source codes with heavily supporting dependencies. For more information please visit:
+
+   https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html
+
+3. IntelliJ IDEA: s a Java integrated development environment (IDE) for developing Java and Scala programs. You can combine sbt power with great IntelliJ IDE features to write your Scala projects. To create and configure a Scala project first install Scala plugin in in the IDE and then use below link for rest of the procedure:
+
+   https://docs.scala-lang.org/getting-started-intellij-track/building-a-scala-project-with-intellij-and-sbt.html
+
+### 3. ToDo Sections:
 
 * Introduction of Scala: Its features over Java and python
 
@@ -24,7 +42,7 @@ https://github.com/jupyter-scala/jupyter-scala
 
    
 
-### 3. References
+### 4. References
 
 To provide this exploration, these references has been utilized:
 
