@@ -1,10 +1,10 @@
 # Scala Exploration
 
-In this repository, Scala tutorial based on some books is explored through Jupter Notebook.
+In this repository, Scala tutorial based on some references is explored through Jupyter Notebook. These references are announced in the last section.
 
-### 1. Install Scala kernel on jupyter notebook
+### 1. Install Scala kernel on Jupyter notebook
 
-To to this, just walk through **Quick Start** section of below github repository:
+To do this, just walk through **Quick Start** section of below Github repository:
 
 https://github.com/jupyter-scala/jupyter-scala
 
@@ -24,7 +24,7 @@ You may run Scala source codes through these options:
 
    https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html
 
-3. IntelliJ IDEA: s a Java integrated development environment (IDE) for developing Java and Scala programs. You can combine sbt power with great IntelliJ IDE features to write your Scala projects. To create and configure a Scala project first install Scala plugin in in the IDE and then use below link for rest of the procedure:
+3. IntelliJ IDEA: s a Java integrated development environment (IDE) for developing Java and Scala programs. You can combine sbt power with great IntelliJ IDE features to write your Scala projects. To create and configure a Scala project first install Scala plugin in the IDE and then use below link for rest of the procedure:
 
    https://docs.scala-lang.org/getting-started-intellij-track/building-a-scala-project-with-intellij-and-sbt.html
 
@@ -34,7 +34,7 @@ You may run Scala source codes through these options:
 
 * Control Structures
 
-* Collections: This sections is on the most important sections of Scala. you can find recommended tutorial for this chapter on the below link:
+* Collections: This section is on the most important sections of Scala. you can find the recommended tutorial for this chapter on the below link:
 
   https://docs.scala-lang.org/overviews/collections/introduction.html
 
@@ -42,14 +42,14 @@ You may run Scala source codes through these options:
 
 ### 4. References
 
-To provide this exploration, these references has been utilized:
+To provide this exploration, these references have been utilized:
 
-[1] 	Cay S. Horstmann. 2016. *Scala for the Impatient* (2nd ed.). Addison-Wesley Professional. 
+[1]     Cay S. Horstmann. 2016. *Scala for the Impatient* (2nd ed.). Addison-Wesley Professional. 
 
-[2]	Scala Tutorial, *Tutorialspoint*, 2003,  [online]  Available:
+[2]    Scala Tutorial, *Tutorialspoint*, 2003,  [online]  Available:
 
-​		people.cs.ksu.edu/~schmidt/705a/Scala/scala_tutorial.pdf
+​        people.cs.ksu.edu/~schmidt/705a/Scala/scala_tutorial.pdf
 
-[3]	 M. Odersky, L. Spoon, and B. Venners, *Programming in Scala*. Artima Press, 3rd Edition
+[3]     M. Odersky, L. Spoon, and B. Venners, *Programming in Scala*. Artima Press, 3rd Edition
 
-[4]	 Swartz, Learning Scala: Practical Functional Programming for the JVM, O'Reilly Media; 1 edition 
+[4]     Swartz, Learning Scala: Practical Functional Programming for the JVM, O'Reilly Media; 1 edition 
