@@ -44,12 +44,15 @@ You may run Scala source codes through these options:
 
 To provide this exploration, these references have been utilized:
 
-[1]     Cay S. Horstmann. 2016. *Scala for the Impatient* (2nd ed.). Addison-Wesley Professional. 
+[1]    Cay S. Horstmann. 2016. *Scala for the Impatient* (2nd ed.). Addison-Wesley Professional. 
 
 [2]    Scala Tutorial, *Tutorialspoint*, 2003,  [online]  Available:
+* https://www.tutorialspoint.com/scala/index.htm
 
-​        people.cs.ksu.edu/~schmidt/705a/Scala/scala_tutorial.pdf
+[3]    M. Odersky, L. Spoon, and B. Venners, *Programming in Scala*. Artima Press, 3rd Edition
 
-[3]     M. Odersky, L. Spoon, and B. Venners, *Programming in Scala*. Artima Press, 3rd Edition
+[4]    Swartz, Learning Scala: Practical Functional Programming for the JVM, O'Reilly Media; 1 edition 
 
-[4]     Swartz, Learning Scala: Practical Functional Programming for the JVM, O'Reilly Media; 1 edition 
+[5]    Official Scala Book and tutorial [online] Available:
+* https://docs.scala-lang.org/overviews/scala-book/introduction.html
+* https://docs.scala-lang.org/tour/tour-of-scala.html
