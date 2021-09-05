@@ -2,7 +2,7 @@
 
 ## Programming in data science
 
-This book is not a book about data science. It is a book about how to use Scala, a programming language, for data science. So, where does programming come in when processing data?
+This book is not a book about data science. It is a book about how to use [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)), a programming language, for data science. So, where does programming come in when processing data?
 
 Computers are involved at every step of the data science pipeline, but not necessarily in the same manner. The style of programs that we build will be drastically different if we are just writing throwaway scripts to explore data or trying to build a scalable application that pushes data through a well-understood pipeline to continuously deliver business intelligence.
 
